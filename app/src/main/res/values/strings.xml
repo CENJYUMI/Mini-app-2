@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mini App 2.2</string>
+    <string name="myInventory">myInventory</string>
+    <string name="add">add</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="cpassword">Confirm password</string>
+    <string name="Login">Login now</string>
+    <string name="login">Login</string>
+    <string name="Signup">Don\'t have an account?</string>
+    <string name="signup">Sign-up Now</string>
+    <string name="signup2">Sign-up</string>
+    <string name="already">Already have an account?</string>
+    <string name="Fullname">Full Name</string>
+    <string name="email">Email Address</string>
+    <string name="edit">Edit</string>
+    <string name="del">Delete</string>
+    <string name="Reg">Registration</string>
+    <string name="Reg2">Register</string>
+    <string name="Add">Add New Item</string>
+    <string name="Update">Update Item</string>
+
+    <string name="name">Item Name</string>
+    <string name="desc">Description</string>
+    <string name="qty">Quantity</string>
+    <string name="qty3">Qty</string>
+</resources>
